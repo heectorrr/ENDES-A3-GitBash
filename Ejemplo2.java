@@ -11,6 +11,7 @@ public class Ejemplo2 {
 		System.out.println("La resta es: "+ resta);
 		System.out.println("La suma es: "+ suma);
 		System.out.println(resta=n1-n2);
+		//modificado
 	}
 }
 //Las variables se pueden declarar tanto fuera de la ejecucion como fuera (INT)(Static int)
